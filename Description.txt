@@ -1,0 +1,4 @@
+Based on Google Sheets file containing (city,max possible price) and (usernames, emails)
+
+Program finds IATA codes for given cities, searches for cheap flights from Cracow to given destinations and sends email notification to every user if finds one.
+
